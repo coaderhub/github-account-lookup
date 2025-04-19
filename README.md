@@ -6,13 +6,13 @@ A sleek, lightweight web app that lets you search for any GitHub user's public p
 
 ## 🚀 Live Demo
 
-👉 [View the App](https://your-deployed-site-url.com)
+👉 [View the App](https://github-account-lookup.vercel.app)
 
 ---
 
 ## 📸 Preview
 
-![App Screenshot](https://yourdomain.com/preview-image.png)
+![App Screenshot](https://github.com/coaderhub/github-account-lookup/preview.png)
 
 ---
 
